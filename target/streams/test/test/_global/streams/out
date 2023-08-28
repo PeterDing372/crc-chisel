@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(crc.CRCTest, org.scalatest.tools.Framework$$anon$1@73441cec, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(crc.modelTest, org.scalatest.tools.Framework$$anon$1@73441cec, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCRCTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the CRC[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should check the CRC[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmodelTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the CRC_hash[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate the check crc_hash[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 2 seconds, 282 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	crc.modelTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	crc.CRCTest[0m
